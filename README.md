@@ -1,2 +1,2 @@
-# CSC-698-Plinko
-CSC 698 - Final Project - Jef and Anna
+Final Project Essay
+https://docs.google.com/document/d/1DasgoCki-turvlA2zyWddsyQtjA41_GK5lNEFdbla8Q/edit
